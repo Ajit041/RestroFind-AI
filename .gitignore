@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Next.js
+.next/
+out/
+.cache/
+
+# Environment
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+Thumbs.db
